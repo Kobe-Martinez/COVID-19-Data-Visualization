@@ -1,7 +1,3 @@
-#21:219:220 Fundamentals of Data Visualization, Spring 2021
-#Assignment 2 - Question 1
-#Kobe Lee Martinez, RUID: 202006380
-
 #1.2
 #Importing libraries
 library(RColorBrewer)
